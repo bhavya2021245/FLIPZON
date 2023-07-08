@@ -1,0 +1,17 @@
+1) SignUp : This functionality will help the customer to first register and make an account on the application. It will take the name, age, phone number, email id and password asinput.
+2) Log in: This functionality will allow the already registered customer to log in by providing the name, email id and password as input. A customer will be able to login only if the
+   fields match with the ones in the database.
+3) Upgrade status: this allows a customer to upgrade to an elite customer or a prime customer.
+4) Explore Product Catalog: This functionality allows the customers to surf through the product categories and products under the categories. 
+5) Add product to cart: user specifies a product ID and the quantity which is added to cart, depending on the availability of the product
+6) Make Payment: This functionality will allow the customer to make payment and shows the total bill of all items in cart along with the list of coupons one can apply.
+
+
+Below are the privileges that “ELITE” and “PRIME” customers enjoy.
+1) The “ELITE” customers will be eligible for all the discounts/coupons set by the admin. They will enjoy a 10 % discount on each product they buy. Also they can get a free
+   surprise from “FLIPZON”. This means that the “ELITE” customers can randomly get a free product as a surprise on making an order. All deliveries will be made within 2 days
+   for all the “ELITE” customers. They have to pay delivery charges equal to Rs 100 flat on all their orders. Also, “ELITE” customers receive 3-4 coupons for every order above the
+    limit of Rs 5000
+2) For “PRIME” they will also be eligible for the discounts/coupons set by the admin. They will enjoy a 5% discount on each product they buy. All deliveries will be made within 3-6
+   days (this can be randomized in the implementation) and they have to pay delivery charges equal to flat Rs 100 + 2% of the order value. They receive 1-2 coupons on
+   orders above Rs 5000.
