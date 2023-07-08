@@ -1,0 +1,11 @@
+1) Enter as Admin: In this functionality, the application should take in your username and roll no. as password and if they’re correct, then you must get all privileges of an admin.
+2) Add Category: This functionality will help the admin to add a new category. It’ll take the category ID and the name of the category as input. Also, take in input a product name
+    and its details because there can not be an empty category.
+3) Delete Category: This functionality will help the admin to delete a new category. It’ll take the name of the category and category ID as input. Once the input is taken the whole
+    category (including the details of the products inside it) will be deleted.
+4) Add Product: If you want to add a new product take in input the category ID and add the name of the product and its details (such as price, and quantity) and it should get added in
+   the respective category. 
+5) Delete Product: If you want to delete a product take in input the name of the category and product ID. The product from that category should get deleted.
+6) Set Discount on Product: this functionality will allow the admin to set the discount to be given on a particular product to specific customers. It will take in input the product ID,
+   the discount percentage to be set and the customer categories which can avail this offer. Discount rates differ for each category of customer. 
+7) Add giveaway deals: this functionality allows the admin to give in the product ID of 2 products and give a lower price than their combined prices as a giveaway deal. 
